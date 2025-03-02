@@ -6,3 +6,7 @@
 var myvar = "Hello, markdown File!"
 
 ```
+
+- [x] First Roza Done
+- [ ] Finish Quran
+- [ ] Learn Cloud Engineering
